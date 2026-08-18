@@ -177,20 +177,35 @@ plt.show()
 ```
 ## OUTPUT
 ## Original image
+
 <img width="309" height="465" alt="Screenshot 2026-08-18 104151" src="https://github.com/user-attachments/assets/9f480353-0f3d-494a-b153-8fefb466d41c" />
+
 ## Grayscale image
+
 <img width="993" height="670" alt="Screenshot 2026-08-18 110341" src="https://github.com/user-attachments/assets/e8807b4b-c615-46bd-a7ed-ffef372f476a" />
+
 ## Thresholded image
+
 <img width="471" height="642" alt="Screenshot 2026-08-18 110424" src="https://github.com/user-attachments/assets/396b4262-b839-4b6b-8b8a-81f407886a8e" />
+
 ## ROI masked image
+
 <img width="474" height="654" alt="Screenshot 2026-08-18 110526" src="https://github.com/user-attachments/assets/4bed56a0-2990-407d-b291-f8e9b16408db" />
+
 ## Edge detected image
+
 <img width="430" height="635" alt="Screenshot 2026-08-18 110610" src="https://github.com/user-attachments/assets/b1f90593-ce9c-4abc-8390-ba27d2145ae9" />
+
 ## Smoothed image
+
 <img width="448" height="636" alt="Screenshot 2026-08-18 110644" src="https://github.com/user-attachments/assets/70ef3fdf-bb1b-4735-8852-812b58f17420" />
+
 ## Detected lines
+
 <img width="407" height="419" alt="Screenshot 2026-08-18 110730" src="https://github.com/user-attachments/assets/0835414e-4a9b-4c5c-92b6-7c9a9a94c1dd" />
+
 ## Final lane detection output
+
 <img width="388" height="639" alt="Screenshot 2026-08-18 110800" src="https://github.com/user-attachments/assets/512ddf5f-8dbe-479e-99f1-73720318b6f0" />
 
 
